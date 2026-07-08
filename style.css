@@ -83,3 +83,6 @@ header{
     color:#555;
     margin:0;
 }
+.card{
+    border:2px solid red;
+}
